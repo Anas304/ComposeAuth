@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639259364379",
+    "project_id": "jetchat-3848c",
+    "storage_bucket": "jetchat-3848c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639259364379:android:7d0a258384af9115537cbe",
+        "android_client_info": {
+          "package_name": "com.example.composeauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639259364379-f9aub85ic399a2j39km5geco2slo6nc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9rwFTMWRfn6gT1tYIAjEfP7BMdScbFzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639259364379-f9aub85ic399a2j39km5geco2slo6nc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
